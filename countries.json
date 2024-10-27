@@ -1,0 +1,8 @@
+[
+    { "name": "India", "dial_code": "91", "iso_code": "IN" },
+    { "name": "United States", "dial_code": "1", "iso_code": "US" },
+    { "name": "United Kingdom", "dial_code": "44", "iso_code": "GB" },
+    { "name": "Canada", "dial_code": "1", "iso_code": "CA" },
+    { "name": "Australia", "dial_code": "61", "iso_code": "AU" }
+   
+]
